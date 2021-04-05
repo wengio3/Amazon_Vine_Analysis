@@ -8,11 +8,11 @@ _This analysis is based on Amazon reviews written by members of the paid Amazon 
 
 
 # Result
-*Total paid and unpaid reviews. 
+* Total paid and unpaid reviews. 
 
 <img width="350" alt="Amazon_vine_image1" src="https://user-images.githubusercontent.com/74740339/113600971-c09aa180-960e-11eb-98f6-6b37357bfae2.png">
 
-*Total Vine reviews
+* Total Vine reviews
 
 
 <img width="379" alt="Amazon_vine_image2" src="https://user-images.githubusercontent.com/74740339/113601019-d0b28100-960e-11eb-859e-7f15fb4b3370.png">

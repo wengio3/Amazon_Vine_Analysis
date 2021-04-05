@@ -44,6 +44,8 @@ _This analysis is based on Amazon reviews written by members of the paid Amazon 
 
 <img width="705" alt="Amazon_vine_image7" src="https://user-images.githubusercontent.com/74740339/113601198-06f00080-960f-11eb-8176-6fde7f387b3a.png">
 
-# Summary 
+# Summary
+
+In the data set used for this analysis, there were 70,048, and out of those reviews, only 616 were Vine(paid) reviews and 69,432 non-Vine(unpaid) reviews. There is not any positivity bias for reviews in the Vine program, according to the analysis results. Out of the 616 Vine(paid) reviews, 221 were 5-star reviews which are 35.88% of the reviews, while out of the 69,432 non-Vine reviews, 40,525 were 5-star 58.37% of the non-vine reviews. The percentage difference of 5-star reviews between the Vine and non-Vine reviews indicates that a paid review of a product doesn't influence customers' rating. 
 
 

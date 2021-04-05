@@ -8,6 +8,29 @@ _This analysis is based on Amazon reviews written by members of the paid Amazon 
 
 
 # Result
+*Total paid and unpaid reviews. 
 
-* •	Total paid and unpaid reviews ![image](https://user-images.githubusercontent.com/74740339/113600194-a4e2cb80-960d-11eb-8361-0e6d2c3dd07f.png)
+https://github.com/wengio3/Amazon_Vine_Analysis/blob/main/Images/Amazon_vine_image1.png
+
+*Total Vine reviews
+
+
+
+*Total number of unpaid or non-Vine reviews.
+
+
+
+*Total number of 5 stars Vine reviews. 
+
+
+
+*Total number of 5 stars unpaid or non-Vine.
+
+
+
+*Percentage of 5 stars Vine reviews.
+
+
+
+*Percentage of 5 stars unpaid or non-Vine.
 

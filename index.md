@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Amazon_Vine_Analysis
 
-You can use the [editor on GitHub](https://github.com/wengio3/Amazon_Vine_Analysis/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Overview of the analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_This project's analysis is for a startup marketing company called BigMarket that helps business optimize their marketing efforts. One of BigMarkets’s clients $ellby requested analysis on how the reviews of their products compare to the reviews of similar products sold by their competitors. $ellby is about to realize an extensive catalog of products on a leading retail website. They are also interested in enrolling in a program that gives free products to selected reviewers, but they want to know if it’s worth the cost._ 
 
-### Markdown
+_This analysis is based on Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like $ellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review._ 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Result
 
-# Header 1
-## Header 2
-### Header 3
+* Total number of paid and unpaid reviews. 
 
-- Bulleted
-- List
+<img width="350" alt="Amazon_vine_image1" src="https://user-images.githubusercontent.com/74740339/113600971-c09aa180-960e-11eb-98f6-6b37357bfae2.png">
 
-1. Numbered
-2. List
+* Total number of paid or Vine reviews.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<img width="379" alt="Amazon_vine_image2" src="https://user-images.githubusercontent.com/74740339/113601019-d0b28100-960e-11eb-859e-7f15fb4b3370.png">
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wengio3/Amazon_Vine_Analysis/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Total number of unpaid or non-Vine reviews.
 
-### Support or Contact
+<img width="391" alt="Amazon_vine_image3" src="https://user-images.githubusercontent.com/74740339/113601050-da3be900-960e-11eb-844e-fc5189441ce4.png">
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+* Total number of 5 stars paid or Vine reviews. 
+
+<img width="729" alt="Amazon_vine_image4" src="https://user-images.githubusercontent.com/74740339/113601094-e758d800-960e-11eb-8012-bacffc7a5165.png">
+
+
+* Total number of 5 stars unpaid or non-Vine reviews.
+
+<img width="742" alt="Amazon_vine_image5" src="https://user-images.githubusercontent.com/74740339/113601138-f475c700-960e-11eb-8c04-ea3e6f577455.png">
+
+
+* Percentage of 5 stars paid or Vine reviews.
+
+<img width="643" alt="Amazon_vine_image6" src="https://user-images.githubusercontent.com/74740339/113601167-fd669880-960e-11eb-9b5b-8a203e39612e.png">
+
+
+* Percentage of 5 stars unpaid or non-Vine reviews.
+
+<img width="705" alt="Amazon_vine_image7" src="https://user-images.githubusercontent.com/74740339/113601198-06f00080-960f-11eb-8176-6fde7f387b3a.png">
+
+# Summary
+
+In the data set used for this analysis, there were 70,048, and out of those reviews, only 616 were Vine(paid) reviews and 69,432 non-Vine(unpaid) reviews. There is not any positivity bias for reviews in the Vine program, according to the analysis results. Out of the 616 Vine(paid) reviews, 221 were 5-star reviews which are 35.88% of the reviews, while out of the 69,432 non-Vine reviews, 40,525 were 5-star 58.37% of the non-vine reviews. The percentage difference of 5-star reviews between the Vine and non-Vine reviews indicates that a paid review of a product doesn't influence customers' rating. 
+
+
